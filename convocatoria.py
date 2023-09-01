@@ -9,6 +9,7 @@ print("4. Cobranza")
 print("5. Editar informacion")
 print("6. Retirar invitados")
 print(" ********* ")
+print(" .......... ")
 
 opcion = 90
 usuarios=[]
